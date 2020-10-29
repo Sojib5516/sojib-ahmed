@@ -1,6 +1,10 @@
 img{
     max-width: 100%;
 }
+html{
+    scroll-behavior: smooth;
+    
+}
 .header-sec{}
 .header-sec img{
     width: 65px;
